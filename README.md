@@ -1,5 +1,5 @@
 # carpentrycourse
-playing around with git
+playing around with git and other stuff
 
 
 # hi
