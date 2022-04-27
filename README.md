@@ -1,6 +1,6 @@
 # carpentrycourse
 playing around with git and other stuff
-testing around
+testing2 around
 
 
 # hi
